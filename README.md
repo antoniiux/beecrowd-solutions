@@ -35,12 +35,12 @@ Cada arquivo segue o padrão:
 ---
 
 ## 📈 Progresso
-| ✅ Problema | 📄 Arquivo | 🔗 Link |
-|------------|------------|---------|
-| 1000 | [Problem1000.java](src/main/java/beecrowd/Problem1000.java) | [beecrowd 1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) |
-| 1001 | [Problem1001.java](src/main/java/beecrowd/Problem1001.java) | [beecrowd 1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) |
+| ✅ Problema | 📄 Arquivo                                                           | 🔗 Link |
+|------------|----------------------------------------------------------------------|---------|
+| 1000 | [Problem1000.java](beecrowd-solutions/src/beecrowd/Problem1000.java) | [beecrowd 1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) |
+| 1001 | [Problem1001.java](beecrowd-solutions/src/beecrowd/Problem1001.java)          | [beecrowd 1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) |
 
-*(Tabela será atualizada conforme eu for resolvendo novos desafios.)*
+*(Tabela será atualizada conforme eu for resolvendo novos desafios - *JAVA.)*
 
 ---
 
@@ -59,10 +59,3 @@ Se quiser sugerir melhorias ou encontrar algum erro, fique à vontade para abrir
 ## 📄 Licença
 Este repositório está licenciado sob a licença MIT.
 Sinta-se livre para usar o código como referência para seus estudos.
-
----
-
-## ✨ Contato
-📧 seuemail@exemplo.com  
-🐙 [Meu GitHub](https://github.com/seu-usuario)  
-💼 [Meu LinkedIn](https://linkedin.com/in/seu-perfil)
