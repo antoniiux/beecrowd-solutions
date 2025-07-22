@@ -19,12 +19,10 @@ Este projeto tem como objetivo:
 ```
 beecrowd-solutions/
 ├── src/
-│   └── main/
-│       └── java/
-│           └── beecrowd/
-│               ├── Problem1000.java
-│               ├── Problem1001.java
-│               └── ...
+│   └── beecrowd/
+│       ├── Problem1000.java
+│       ├── Problem1001.java
+│       └── ...
 ├── README.md
 ├── .gitignore
 ```
@@ -37,8 +35,10 @@ Cada arquivo segue o padrão:
 ## 📈 Progresso
 | ✅ Problema | 📄 Arquivo                                                             | 🔗 Link |
 |------------|------------------------------------------------------------------------|---------|
-| 1000 | [Problema1000.java](beecrowd-solutions/src/beecrowd/Problema1000.java) | [beecrowd 1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) |
-| 1001 | [Problema1001.java](src/main/java/beecrowd/Problema1001.java)          | [beecrowd 1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) |
+| 1000       | [Problema1000.java](src/beecrowd/Problema1000.java) | [beecrowd 1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) |
+| 1001       | [Problema1001.java](src/main/java/beecrowd/Problema1001.java)          | [beecrowd 1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) |
+| 1002       | [Problema1001.java](src/main/java/beecrowd/Problema1001.java)          | [beecrowd 1001](https://judge.beecrowd.com/pt/problems/view/1002) |
+| 1003       | [Problema1001.java](src/main/java/beecrowd/Problema1001.java)          | [beecrowd 1001](https://judge.beecrowd.com/pt/problems/view/1003) |
 
 *(Tabela será atualizada conforme eu for resolvendo novos desafios - *JAVA.)*
 
