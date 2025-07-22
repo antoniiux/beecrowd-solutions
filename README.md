@@ -33,12 +33,12 @@ Cada arquivo segue o padrão:
 ---
 
 ## 📈 Progresso
-| ✅ Problema | 📄 Arquivo                                                             | 🔗 Link |
-|------------|------------------------------------------------------------------------|---------|
-| 1000       | [Problema1000.java](src/beecrowd/Problema1000.java) | [beecrowd 1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) |
-| 1001       | [Problema1001.java](src/main/java/beecrowd/Problema1001.java)          | [beecrowd 1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) |
-| 1002       | [Problema1001.java](src/main/java/beecrowd/Problema1001.java)          | [beecrowd 1001](https://judge.beecrowd.com/pt/problems/view/1002) |
-| 1003       | [Problema1001.java](src/main/java/beecrowd/Problema1001.java)          | [beecrowd 1001](https://judge.beecrowd.com/pt/problems/view/1003) |
+| ✅ Problema | 📄 Arquivo                                           | 🔗 Link                                                                  |
+|------------|------------------------------------------------------|--------------------------------------------------------------------------|
+| 1000       | [Problema1000.java](src/beecrowd/Problema1000.java)  | [beecrowd 1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) |
+| 1001       | [Problema1001.java](src/beecrowd//Problema1001.java) | [beecrowd 1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) |
+| 1002       | [Problema1002.java](src/beecrowd//Problema1002.java) | [beecrowd 1002](https://judge.beecrowd.com/pt/problems/view/1002)        |
+| 1003       | [Problema1003.java](src/beecrowd//Problema1003.java) | [beecrowd 1003](https://judge.beecrowd.com/pt/problems/view/1003)        |
 
 *(Tabela será atualizada conforme eu for resolvendo novos desafios - *JAVA.)*
 
