@@ -17,16 +17,15 @@ Este projeto tem como objetivo:
 
 ## 🗂️ Estrutura do Projeto
 ```
-beecrowd-solutions/
-├── src/
-│   └── beecrowd/
-│       ├── Problem1000.java
-│       ├── Problem1001.java
-│       └── ...
-├── README.md
-├── .gitignore
+📂 **beecrowd-solutions**
+├── 📁 **src**
+│   └── 📁 **beecrowd**
+│       ├── 📝 Problema1000.java
+│       ├── 📝 Problema1001.java
+│       └── ⋯ outros arquivos
+├── 📄 README.md
+└── 📄 .gitignore
 ```
-
 Cada arquivo segue o padrão:
 📄 `ProblemXXXX.java` — Onde `XXXX` é o número do problema no beecrowd.
 
