@@ -1,7 +1,8 @@
 package beecrowd;
+
 import java.util.Scanner;
 /*
-    🔷 Extremamente Básico
+    🔷 Problema 1001 — Extremamente Básico
     📄 https://judge.beecrowd.com/pt/problems/view/1001
 
     📋 Enunciado:

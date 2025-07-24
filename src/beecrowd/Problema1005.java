@@ -26,6 +26,7 @@ public class Problema1005 {
         double a = sc.nextDouble();
         double b = sc.nextDouble();
         double media = (a * 3.5 + b * 7.5) / 11.0;
+
         System.out.printf("MEDIA = %.5f%n", media);
     }
 }
