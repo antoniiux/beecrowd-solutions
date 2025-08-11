@@ -18,5 +18,6 @@ public class CondicionalExtra001 {
         } else {
             System.out.println("NÃO É NEGATIVO");
         }
+        sc.close();
     }
 }
