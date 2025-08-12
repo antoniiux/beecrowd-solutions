@@ -59,8 +59,8 @@ Cada arquivo segue o padrão:
 | 1018       | [Problema1018.java](src/beecrowd/Problema1018.java)               | [beecrowd 1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) |
 | 1019       | [Problema1019.java](src/beecrowd/Problema1019.java)               | [beecrowd 1019](https://www.beecrowd.com.br/judge/pt/problems/view/1019) |
 | 1020       | [Problema1020.java](src/beecrowd/Problema1020.java)               | [beecrowd 1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) |
-| 1022       | [Problema1020.java](src/beecrowd/Problema1021.java)               | [beecrowd 1021](https://www.beecrowd.com.br/judge/pt/problems/view/1021) |
-| 1023       | [Problema1020.java](src/beecrowd/Problema1022.java)               | [beecrowd 1022](https://www.beecrowd.com.br/judge/pt/problems/view/1022) |
+| 1021       | [Problema1021.java](src/beecrowd/Problema1021.java)               | [beecrowd 1021](https://www.beecrowd.com.br/judge/pt/problems/view/1021) |
+| 1023       | [Problema1035.java](src/beecrowd/Problema1035.java)               | [beecrowd 1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) |
 
 *(Tabela será atualizada conforme eu for resolvendo novos desafios - *JAVA.)*
 
